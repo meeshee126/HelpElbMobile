@@ -34,6 +34,6 @@ The terrain consists of 7 different pieces that are randomly spawned. So every t
 
 - Rotate your phone to role left and right
 
-- Touche the display to make a jump
+- Touch the display to make a jump
 
 ![Controls](Images/Controls.gif)
