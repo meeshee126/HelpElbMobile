@@ -1,4 +1,4 @@
-# HelpElbMobile (Android Version)
+# HelpElbMobile (Android ALPHA Version)
 
 ![Titel Screen](Images/TitleScreen.png)
 
